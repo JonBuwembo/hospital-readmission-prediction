@@ -1,7 +1,7 @@
 # hospital-readmission-prediction
 
 ## Project Status
-![Status](https://img.shields.io/badge/status-in%16progress-yellow)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 🚧 In Progress
 - [x] Dataset exploration
 - [ ] Data cleaning
