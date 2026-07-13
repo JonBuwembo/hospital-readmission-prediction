@@ -1,6 +1,7 @@
 # hospital-readmission-prediction
 
 ## Project Status
+![Status](https://img.shields.io/badge/status-in%16progress-yellow)
 🚧 In Progress
 - [x] Dataset exploration
 - [ ] Data cleaning
@@ -8,6 +9,9 @@
 - [ ] Model development
 - [ ] Model evaluation
 - [ ] Model deployment
+
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![Machine Learning](https://img.shields.io/badge/ML-scikit--learn-orange)
 
 ## Project Overview
 Hospital readmissions are a major challenge for healthcare systems. Patients who are readmitted shortly after discharge often require additional treatment, increasing healthcare costs and potentially indicating that their initial care or discharge planning was not fully effective. Predicting which patients are at high risk of readmission can help hospitals improve patient outcomes and allocate resources more efficiently.
