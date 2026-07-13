@@ -27,8 +27,8 @@ Healthcare readmissions are both costly for providers and patients. Predicting r
 ## What is the prediction target?
 The target variable is readmission. 
 Possible values:
-- <30 if the patient was readmitted within 30 days.
-- >30 if the patient was readmitted in more than 30 days
+- < 30 if the patient was readmitted within 30 days.
+- > 30 if the patient was readmitted in more than 30 days
 - NO If there are no records of readmission.
   
 ## How many rows and columns are there?
