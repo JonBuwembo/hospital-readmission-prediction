@@ -10,7 +10,7 @@
 - [ ] Model evaluation
 - [ ] Model deployment
 
-![Python](https://img.shields.io/badge/python-3.12-blue)
+![Python](https://img.shields.io/badge/python-3.13-blue)
 ![Machine Learning](https://img.shields.io/badge/ML-scikit--learn-orange)
 
 ## Project Overview
