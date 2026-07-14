@@ -29,7 +29,7 @@ The dataset was compiled from electronic health records collected from 130 U.S. 
 Healthcare readmissions are both costly for providers and patients. Predicting readmission risk allows hospitals to identify high-risk patients before discharge so that they can provide additional care, follow-up appointments, or other interventions that may reduce avoidable readmissions and improve patient outcomes.
 
 ## What is the prediction target?
-The target variable is readmission. 
+The target variable is **readmission**. 
 Possible values:
 - `< 30` if the patient was readmitted within 30 days.
 - `> 30` if the patient was readmitted in more than 30 days
