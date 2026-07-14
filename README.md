@@ -2,7 +2,7 @@
 
 ## Project Status
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-🚧 In Progress
+
 - [x] Dataset exploration
 - [ ] Data cleaning
 - [ ] Feature engineering
